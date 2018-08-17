@@ -7,7 +7,7 @@ def hello_t(arr)
   i += 1 
   
 end 
-  ar
+  arr
 end
 
 # call your method here!
